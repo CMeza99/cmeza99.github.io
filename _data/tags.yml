@@ -1,0 +1,20 @@
+- slug: linux
+  name: Linux
+- slug: freebsd
+  name: FreeBSD
+- slug: developement
+  name: Developement
+- slug: web-developement
+  name: Web Developement
+- slug: backend-developement
+  name: Backend Developement
+- slug: operations
+  name: Operations
+- slug: system-administration
+  name: System Administration
+- slug: devops
+  name: DevOps
+- slug: event
+  name: Event
+- slug: community
+  name: Community
