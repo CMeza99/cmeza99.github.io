@@ -1,7 +1,10 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "Latest Posts"
+title: "All About Carlos"
+excerpt: "DevOps Ninja Guru and Unicorn"
+image:
+  feature: banner-front.svg
 ---
 
 <div class="tiles">
