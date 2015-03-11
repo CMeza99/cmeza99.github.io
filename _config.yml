@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Carlos is Awesome
-description: DevOps, SysAdmin, Web Developer, Engineer
+description: Carlos Meza - DevOps, SysAdmin, Web Developer, Engineer
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -26,12 +26,13 @@ owner:
   email: me@carlosmeza.com
   twitter: _digitalRoots
   linkedin: cmeza99
-  google:
-    ad-client:
-    ad-slot:
   bio: I'm awesome
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
+google:
+  tracking_id: UA-43721421-2
+  ad-client:
+  ad-slot:
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
