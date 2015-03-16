@@ -4,7 +4,7 @@ title: "My First Computer"
 excerpt: "IBM PS/2 Model 70"
 #date: 2015-03-15T00:59:35-07:00
 image:
-  teaser: 1995-06-28-teaser-ps2-70.png
+  teaser: 1995-06-28-teaser-ps2-70.jpg
   feature: 1995-06-28-feature-ps2-70-board.jpg
 categories:
 tags:
