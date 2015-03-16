@@ -16,10 +16,14 @@
   name: Operations
 - slug: sysadminn
   name: System Administration
+- slug: infosec
+  name: InfoSec
 - slug: devops
   name: DevOps
 - slug: event
   name: Event
+- slug: conference
+  name: Conference
 - slug: community
   name: Community
 - slug: drupal
