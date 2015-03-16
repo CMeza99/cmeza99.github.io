@@ -1,0 +1,39 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="250" width="400" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+<dc:description/>
+<dc:creator>
+<cc:Agent>
+<dc:title>Freepik</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:source>www.flaticon.com</dc:source>
+<dc:contributor>
+<cc:Agent>
+<dc:title>Carlos Meza of digitalRoots</dc:title>
+</cc:Agent>
+</dc:contributor>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g transform="translate(879.79279,-414.31733)">
+<g transform="matrix(0.25557255,0,0,0.2555725,-804.29294,414.31733)">
+<path d="m35.02,187.38,0,730.81c0,33.137,26.863,60,60,60h535.36v-241.59c0-39.324,31.878-71.201,71.202-71.201h241.58v-478.02c0-33.137-26.863-60-60-60h-130.25c-18.179,27.253-49.196,45.245-84.343,45.245-16.844,0-32.735-4.137-46.727-11.44l-97.651,64.86c-6.79,4.51-14.864-3.566-10.354-10.355l58.654-88.309h-477.48c-33.138-0.001-60,26.862-60,59.999z"/>
+<path d="m701.58,706.61c-16.567,0-30,13.432-30,30v241.59l271.6-271.59h-241.6z"/>
+<path d="m624.54,127.38c8.105,6.376,17.622,11.027,28.013,13.414,5.153,1.184,10.514,1.831,16.025,1.831,16.628,0,31.911-5.706,44.039-15.245,16.603-13.057,27.275-33.31,27.275-56.069-0.01-39.383-31.94-71.311-71.33-71.311-39.38,0-71.31,31.928-71.31,71.314,0,5.514,0.646,10.873,1.831,16.027,3.703,16.122,12.864,30.149,25.444,40.042z"/>
+</g>
+</g>
+</svg>

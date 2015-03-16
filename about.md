@@ -13,3 +13,5 @@ permalink: about/
 ---
 I use Arch on my workstation. I use Ubuntu on my servers. And I use
 a Windows box as a monitor stand.
+
+AKA digitalRoots
