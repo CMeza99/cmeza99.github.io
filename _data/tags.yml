@@ -26,6 +26,8 @@
   name: Conference
 - slug: community
   name: Community
+- name: voluneer
+  slug: Voluneering
 - slug: drupal
   name: Drupal
 - slug: jekyll
