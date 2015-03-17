@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "My First Technical Book"
-modified: "Upgrading & Repairing PCs 13th Edition"
+modified:
 categories:
-excerpt:
+excerpt: "Upgrading & Repairing PCs 13th Edition"
 tags: [sysadmin]
 image:
   feature:
