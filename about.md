@@ -53,7 +53,7 @@ digitalRoots - more informations coming soon.
 
 #### Currently Active
 - [San Gabriel Valley Linux User's Group](http://www.sgvlug.org/)
-- []Whittier Time Bank](http://whittiertimebank.org)
+- [Whittier Time Bank](http://whittiertimebank.org)
 
 #### Previous
 - [Droplabs](http://www.droplabs.net/)
