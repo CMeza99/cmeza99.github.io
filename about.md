@@ -21,11 +21,11 @@ I am very much an open source enthusiast. I run [Ubuntu](http://www.ubuntu.com/)
 
 ## How It Started
 
-My fascination with computers stems from my curiosity to understand how this box creates an image I can see. When my aunt game my first computer, an IBM PS/2 Model 70, I immediately wanted to understand how it works. So the first thing I did, was take it apart. Afterwards I could not get it boot back into the OS (DOS) (my parents were less than pleased). It did how ever boot in to a BASIC interpreter, which I learned how to use. Eventually, I received assistance from my mother's coworker in making it work again, but still did not understand how it worked.
+My fascination with computers stems from my curiosity to understand how this box creates an image I can see. When my aunt game my first computer, an [IBM PS/2 Model 70](/my-first-computer_1995-06-28/), I immediately wanted to understand how it works. So the first thing I did, was take it apart. Afterwards I could not get it boot back into the OS (DOS) (my parents were less than pleased). It did how ever boot in to a BASIC interpreter, which I learned how to use. Eventually, I received assistance from my mother's coworker in making it work again, but still did not understand how it worked.
 
 I proceed to study how the components of the computer worked. I learned solid state circuitry, resistor, capacitors, and transistors. Then I learned digital circuity, gates and microprocessors. Then I finally learned how a CRT (cathode ray tube) worked. The great mystery was finally solved years later. But this empowered me to mod devices, unlock CPUs, overclock motherboards, mess with voltages on telephones.
 
-Much my education in electronics is attributed to my high school, [Don Bosco Technical Institute](). I chose to go to this school, largely impart for its computer and electronic courses. Fortunate for me, I had parents willing to make the sacrifice to allow me to go to the most expensive Catholic high school in the area.
+Much my education in electronics is attributed to my high school, [Don Bosco Technical Institute](https://www.boscotech.edu/). I chose to go to this school, largely impart for its computer and electronic courses. Fortunate for me, I had parents willing to make the sacrifice to allow me to go to the most expensive Catholic high school in the area.
 
 ## Where I Come From
 
