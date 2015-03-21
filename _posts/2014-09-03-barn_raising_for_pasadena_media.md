@@ -3,7 +3,7 @@ layout: article
 title: "Barn Raising for Pasadena Media"
 modified:
 categories:
-excerpt:
+excerpt: "Hackathon"
 tags: [webdev, php, drupal]
 image:
   feature: 2014-03-09-feature-PasadenaMedia-WebBanner.jpg
@@ -11,5 +11,4 @@ image:
   thumb:
 #date:
 ---
-Barn raising for the new [Pasadena Media](http://www.pasadenamedia.tv/) website
-at [GLADCamp 2014](https://gladcamp.org/).
+Barn raising for the new [Pasadena Media](http://www.pasadenamedia.tv/) website at [GLADCamp 2014](https://gladcamp.org/).
