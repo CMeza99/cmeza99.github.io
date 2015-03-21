@@ -4,7 +4,7 @@ title: "Lockpicking at Null Space Labs"
 modified:2015-03-21T12:14:31-07:00
 categories:
 excerpt: "Attacking layer one"
-tags: [infosec event community]
+tags: [infosec, event, community]
 image:
   feature:
   teaser:
