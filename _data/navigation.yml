@@ -10,7 +10,7 @@
 #  excerpt: "Things that I like and inspire me."
 #  image:
 
-#- title: About
-#  url: /about/
-#  exerpt: "The facts about me."
-#  image:
+- title: About
+  url: /about/
+  exerpt: "The facts about me."
+  image:
