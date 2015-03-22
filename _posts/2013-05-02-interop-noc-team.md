@@ -1,8 +1,9 @@
 ---
 layout: article
 title: "Interop NOC Team"
-#date: 2015-03-16T18:49:40-07:00
-excerpt: ""
+#date:
+modified: 2015-03-16T18:49:40-07:00
+excerpt: "Deploying and tearing down the world's largest temporary network."
 image:
   teaser:
   feature:
