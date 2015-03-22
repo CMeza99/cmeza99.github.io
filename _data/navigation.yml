@@ -5,10 +5,14 @@
 #  excerpt: "Things I do."
 #  image:
 
-#- title: Influences
-#  url: /influences/
-#  excerpt: "Things that I like and inspire me."
+#- title: Inspirations
+#  url: /likes/
+#  excerpt: "Influences and inspiration."
 #  image:
+
+- title: Timeline
+  url: /archive/
+  excerpt: "Things I have done."
 
 - title: About
   url: /about/

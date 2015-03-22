@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "All about me"
+title: "About me"
 #date:
 modified: 2015-03-21T12:15:51-07:00
-excerpt: All about Carlos Meza
+excerpt: The facts about Carlos Meza
 image:
   feature:
   teaser:

@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: article
 permalink: /
-title: "All About Carlos"
-excerpt: "DevOps Ninja Guru and Unicorn"
+title: "Timeline"
+excerpt: "The things I've done"
 image:
-  feature: banner-front.svg
+#  feature: banner-front.svg
 ---
 
 <div class="tiles">
