@@ -4,7 +4,7 @@ permalink: /
 title: "Carlos Meza"
 excerpt: "DevOps Ninja Guru and Unicorn"
 image:
-  feature: banner-front.svg
+  feature: banner-front.jpg
 ---
 This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). Here you can find out more about him and see what he has been up to. This site, much like me, will forever be a work in progress.
 
