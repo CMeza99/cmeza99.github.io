@@ -247,6 +247,15 @@
 		padding: 3em;
 	}
 	h1 {
+		text-shadow:
+			3px 3px 0 #000,
+			/* Simulated effect for Firefox and Opera
+			and nice enhancement for WebKit */
+			-1px -1px 0 #000,
+			1px -1px 0 #000,
+			-1px  1px 0 #000,
+			1px  1px 0 #000;
+		color:gold;
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
@@ -256,6 +265,15 @@
 		}
 	}
 	h2 {
+		text-shadow:
+			/* Simulated effect for Firefox and Opera
+			and nice enhancement for WebKit */
+			-1px -1px 0 #000,
+			1px -1px 0 #000,
+			-1px  1px 0 #000,
+			1px  1px 0 #000;
+		letter-spacing:0.0314em;
+		color:orange;
 		@include font-size(20);
 		@include media($medium) {
 			@include font-size(24);
