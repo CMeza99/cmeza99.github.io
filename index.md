@@ -11,25 +11,24 @@ This site is dedicated to the awesomeness that is [Carlos Meza](https://www.link
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt"></p>
-</div><!-- /.tile -->
-
-
-<div class="tile">
   <h2 class="post-title"><a href="/archive/" title="Post archive">Timeline</a></h2>
   <p class="post-excerpt">This is an archive of my posts. You can see my experiences and follow my adventures.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"><a href="/about/" title="About Carlos Meza">About Me</a></h2>
-  <p class="post-excerpt">Just a brief bio and history of yours truly.</p>
+  <h2 class="post-title">Portfolio</h2>
+  <p class="post-excerpt">Being built</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title"></h2>
-  <p class="post-excerpt"></p>
+  <h2 class="post-title"><a href="/likes/" title="Things I like">Inspirations</a></h2>
+  <p class="post-excerpt">Things I like and inspire me.</p>
 </div><!-- /.tiles -->
+
+<div class="tile">
+  <h2 class="post-title"><a href="/about/" title="About Carlos Meza">About Me</a></h2>
+  <p class="post-excerpt">Just a brief bio and history of yours truly.</p>
+</div><!-- /.tile -->
 
 </div><!-- /.tile -->
 

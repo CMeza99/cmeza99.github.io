@@ -1,18 +1,18 @@
 # Site navigation links
 
+- title: Timeline
+  url: /archive/
+  excerpt: "Things I have done."
+  
 #- title: Portfolio
 #  url: /portfolio/
 #  excerpt: "Things I do."
 #  image:
 
-#- title: Inspirations
-#  url: /likes/
-#  excerpt: "Influences and inspiration."
-#  image:
-
-- title: Timeline
-  url: /archive/
-  excerpt: "Things I have done."
+- title: Inspirations
+  url: /likes/
+  excerpt: "Influences and inspiration."
+  image:
 
 - title: About
   url: /about/
