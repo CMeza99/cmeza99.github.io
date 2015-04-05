@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Carlos Meza"
+title: "Home"
 excerpt: "DevOps Ninja Guru and Unicorn"
 image:
   feature: banner-front.jpg
