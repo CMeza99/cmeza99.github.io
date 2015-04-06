@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: article
 ---
-<div id="main" role="main">
-    <div class="wrap">
+
         <h1>Articles tagged with "{{ page.tag }}"</h1>
         {% if site.tags[page.tag] %}
         <ul>
@@ -13,5 +12,4 @@ layout: default
         {% else %}
         <p>There are no posts for this tag.</p>
         {% endif %}
-    </div>
-</div>
+
