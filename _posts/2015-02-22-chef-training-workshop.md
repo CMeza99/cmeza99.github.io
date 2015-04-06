@@ -9,7 +9,7 @@ image:
   feature:
   teaser:
   thumb:
-#date:
+date: 2015-02-22T10:00:00-07:00
 ---
 At [ScaLE 13x](http://www.socallinuxexpo.org/scale/13x) I attended the [Chef training workshop](http://www.socallinuxexpo.org/scale/13x/chef-training-workshop). If was very informative and provided me with more then enough info to deploy recipes and tests.
 
