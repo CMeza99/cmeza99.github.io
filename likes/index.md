@@ -34,6 +34,9 @@ ads: false
     <a href="http://ripremix.com/"><img src="http://placehold.it/150x150.gif" alt=""></a><p><a href="http://ripremix.com/"><span class="header">RiP!: A Remix Manifesto</span></a></p>
   </li>
   <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a><p><span class="header">xkcd</span></p>
+  </li>
+  <li>
     <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a><p><span class="header">TWiT</span>This Week in Tech</p>
   </li>
   <li>
@@ -41,5 +44,8 @@ ads: false
   </li>
   <li>
     <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a><p><span class="header">Futurama</span></p>
+  </li>
+  <li>
+    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a><p><span class="header">Tesla</span></p>
   </li>
 </ul>
