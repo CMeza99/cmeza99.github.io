@@ -3,7 +3,7 @@ layout: article
 title: "Thanks Linux Foundation"
 modified: 2015-04-05T17:00:29-07:00
 categories: 
-excerpt:
+excerpt: "LFCS and/or LFCE are in my future."
 tags: []
 image:
   feature:
