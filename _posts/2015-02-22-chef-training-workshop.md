@@ -4,7 +4,7 @@ title: "Chef Training Workshop"
 modified: 2015-04-05T16:37:06-07:00
 categories:
 excerpt: "OpsCode teaching Chef"
-tags: [devops event]
+tags: [devops, event]
 image:
   feature:
   teaser:
