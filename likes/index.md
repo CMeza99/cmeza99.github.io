@@ -2,7 +2,7 @@
 layout: article
 title: "Inspirations"
 date:
-modified: 2015-04-04T01:00:00-07:00
+modified: 2015-04-06T20:00:00-07:00
 excerpt: "Inspirations and things I like"
 image:
   feature:
@@ -46,6 +46,6 @@ ads: false
     <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a><p><span class="header">Futurama</span></p>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a><p><span class="header">Tesla</span></p>
+    <p><a href="http://theoatmeal.com/comics/tesla"><img src="http://placehold.it/150x150.gif" alt=""><span class="header">Nikola Tesla</span></a>The world's greatest geek and mad scientist.</p>
   </li>
 </ul>

@@ -5,7 +5,7 @@ title: "Home"
 excerpt: "DevOps Ninja Guru and Unicorn"
 image:
   feature: banner-front.jpg
-modified: 2015-04-05T01:00:00-07:00
+modified: 2015-04-06T19:00:00-07:00
 ---
 This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). Here you can find out more about him and see what he has been up to. This site, much like me, will forever be a work in progress.
 
@@ -23,7 +23,7 @@ This site is dedicated to the awesomeness that is [Carlos Meza](https://www.link
 
 <div class="tile">
   <h2 class="post-title"><a href="/likes/" title="Things I like">Inspirations</a></h2>
-  <p class="post-excerpt">Things I like and inspire me.</p>
+  <p class="post-excerpt">Things that inspire and motivate me. Hopefully, this can give another perspective to my personality.</p>
 </div><!-- /.tiles -->
 
 <div class="tile">
