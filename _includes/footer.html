@@ -1,4 +1,5 @@
 <footer role="contentinfo" id="site-footer">
+{% comment %}
 	<nav role="navigation" class="menu bottom-menu">
 		<ul class="menu-item">
 		{% for link in site.data.footer %}
@@ -11,5 +12,6 @@
 		{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
+{% endcomment %}
     <p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a></p>
 </footer>

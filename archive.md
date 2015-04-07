@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 permalink: archive/
 title: "Timeline"
 excerpt: "The things I've done"
