@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "About me"
+title: "About"
 #date:
-modified: 2015-03-21T12:15:51-07:00
+modified: 2015-04-09T00:15:51-07:00
 excerpt: The facts about Carlos Meza
 image:
   feature:
