@@ -2,7 +2,7 @@
 layout: article
 title: "Inspirations"
 date:
-modified: 2015-04-06T20:00:00-07:00
+modified: 2015-04-11T23:00:00-07:00
 excerpt: "Inspirations and things I like"
 image:
   feature:
