@@ -9,7 +9,7 @@ image:
   feature:
   teaser:
   thumb:
-date: 2014-21-02T08:30:06-07:00
+date: 2014-02-21T21:30:06-07:00
 ---
 I was excited to be at the [keynote](http://www.socallinuxexpo.org/scale12x/presentations/opening-keynote-only-you-can-get-so-where-are-you.html) being give by [Lawrence Lessig](http://www.socallinuxexpo.org/scale12x/speakers/lawrence-lessig.html). I have great admiration for his contributions like [Creative Commons](http://creativecommons.org/). Also, I agree with many of his perspectives, some of which he shares in [RiP: A remix manifesto](http://ripremix.com/).
 
