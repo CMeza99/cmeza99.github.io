@@ -3,7 +3,7 @@ layout: article
 title: "PGP Key Signing Party"
 modified: 2015-04-12T11:33:18-07:00
 categories: 
-excerpt: "gpg --fingerprint cmeza99@gmail.com"
+excerpt: "gpg"
 tags: [linux, event, community]
 image:
   feature:
