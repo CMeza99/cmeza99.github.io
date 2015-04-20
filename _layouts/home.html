@@ -26,7 +26,9 @@
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
       <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
     <![endif]-->
-
+    {% if site.google.tracking_id %}
+     {% include google-analytics.html %}
+    {% endif %}
   </head>
 
   <body>
@@ -36,7 +38,7 @@
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
-        <<h1>Carlos Meza</h1>
+        <h1>Carlos Meza</h1>
         {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
         <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}" class="btn-inverse">My LinkedIn</a>
       </div><!-- /.page-lead-content -->

@@ -1,13 +1,13 @@
 ---
 layout: home
 permalink: /
-title: "Home"
+title: "Root"
 excerpt: "DevOps Ninja Guru and Unicorn"
 image:
   feature: banner-front.jpg
-modified: 2015-04-06T19:00:00-07:00
+modified: 2015-04-19T22:40:00-07:00
 ---
-This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). Here you can find out more about him and see what he has been up to. This site, much like me, will forever be a work in progress.
+This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). Here you can find out more about him and see what he has been up to. Posts here are meant to be brief to help provide you with a high level view of, who is Carlos Meza. This site, much like me, will forever be a work in progress.
 
 <div class="tiles">
 
