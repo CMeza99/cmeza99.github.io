@@ -6,8 +6,8 @@ categories:
 excerpt: "Back at InteropNet and working the NOC"
 tags: [sysadmin, community, event]
 image:
-  feature:
-  teaser:
+  feature: 2015-05-01-feature-InteropLV.png
+  teaser: 2015-05-01-teaser-InteropLV.png
   thumb:
 #date:
 ---
