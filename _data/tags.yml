@@ -10,8 +10,6 @@
   name: Developement
 - slug: webdev
   name: Web Developement
-- slug: backend-dev
-  name: Backend Developement
 - slug: operations
   name: Operations
 - slug: sysadmin
@@ -26,8 +24,8 @@
   name: Conference
 - slug: community
   name: Community
-- name: voluneer
-  slug: Voluneering
+- name: volunteer
+  slug: Volunteering
 - slug: drupal
   name: Drupal
 - slug: jekyll
