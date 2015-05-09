@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "InteropLV"
-modified: 2015-05-04T21:17:01-07:00
+modified: 2015-05-09T12:17:01-07:00
 categories: 
 excerpt: "Back at InteropNet and working the NOC"
 tags: [sysadmin, community, event]
