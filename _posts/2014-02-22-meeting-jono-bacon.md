@@ -9,6 +9,6 @@ image:
   feature:
   teaser:
   thumb:
-date:
+#date:
 ---
 
