@@ -8,7 +8,7 @@ image:
 modified: 2015-05-12T20:40:00-07:00
 post_count: 8
 ---
-<p>This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). At the moment this site is intended to provide insight to who I am and what I do. I am sharing my interests and experience with who ever wants to know more about me. Most posts are brief, but as this site stabilizes they should become more detailed. Much like me, this site will forever be a work in progress.</p>
+This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). At the moment this site is intended to provide insight to who I am and what I do. I am sharing my interests and experience with who ever wants to know more about me. Most posts are brief, but as this site stabilizes they should become more detailed. Much like me, this site will forever be a work in progress.
 
 <div class="tiles">
 
@@ -35,33 +35,6 @@ post_count: 8
 </div><!-- /.tile -->
 
 <div style="clear:both"></div>
-
-
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-
-
 
 ## Recent Posts
 {% assign count=page.post_count %}
