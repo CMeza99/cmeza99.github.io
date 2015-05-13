@@ -18,7 +18,8 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
-
+#paginate: 5
+#paginate_path: "/archive/:num/"
 
 # Site owner
 owner:
@@ -26,7 +27,7 @@ owner:
   email: me@carlosmeza.com
   twitter: _digitalRoots
   linkedin: cmeza99
-  bio: I'm awesome
+  bio: Superuser
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
