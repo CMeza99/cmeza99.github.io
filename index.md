@@ -10,7 +10,7 @@ post_count: 8
 ---
 I am Carlos Meza. I do systems administration, web development, study information security, and on occasion play with electronics.
 
-This is where I introduce myself to the Internet. Here I share my experiences around my technical adventurers, information systems and otherwise. If anything here sounds interesting and you would like more information please contact me at contact@carlosmeza.com.
+This is where I introduce myself to the Internet. Here I share my experiences around my technical adventurers, information systems and anything nerdy. If anything here sounds interesting and you would like more information please contact me at contact@carlosmeza.com.
 
 <div class="tiles">
 
