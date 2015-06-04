@@ -5,10 +5,12 @@ title: "Root"
 excerpt: "DevOps Ninja Guru and Unicorn"
 image:
   feature: banner-front.jpg
-modified: 2015-05-12T20:40:00-07:00
+modified: 2015-06-03T22:00:00-07:00
 post_count: 8
 ---
-This site is dedicated to the awesomeness that is [Carlos Meza](https://www.linkedin.com/in/cmeza99). At the moment this site is intended to provide insight to who I am and what I do. I am sharing my interests and experience with who ever wants to know more about me. Most posts are brief, but as this site stabilizes they should become more detailed. Much like me, this site will forever be a work in progress.
+I am Carlos Meza. I do systems administration, web development, study information security, and on occasion play with electronics.
+
+This is where I introduce myself to the Internet. Here I share my experiences around my technical adventurers, information systems and otherwise. If anything here sounds interesting and you would like more information please contact me at contact@carlosmeza.com.
 
 <div class="tiles">
 
@@ -46,4 +48,6 @@ This site is dedicated to the awesomeness that is [Carlos Meza](https://www.link
 	{% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
-
+<div style="float:right">
+  <a href="/archive/" class="btn">Older Posts</a>
+</div><!-- /.tile -->
