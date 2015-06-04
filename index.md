@@ -48,6 +48,6 @@ This is where I introduce myself to the Internet. Here I share my experiences ar
 	{% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
-<div style="float:right">
+<div style="text-align:center">
   <a href="/archive/" class="btn">Older Posts</a>
 </div><!-- /.tile -->
