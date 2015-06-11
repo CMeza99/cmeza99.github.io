@@ -96,5 +96,8 @@ Later, I would start dabbling in web development. I had played with some JavaScr
 Now I am focusing on Python as there are many web development tools in that language, as well as DevOps type tools
 
 ## Even More About Me
+
 - [Inspirations and Influences](./likes)
+
 - [Personal Background](./personal)
+
