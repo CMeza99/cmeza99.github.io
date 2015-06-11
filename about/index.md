@@ -2,7 +2,7 @@
 layout: article
 title: "About Me"
 #date:
-modified: 2015-06-10T22:15:51-07:00
+modified: 2015-06-10T23:05:51-07:00
 excerpt: "The facts about Carlos Meza"
 image:
   feature:
@@ -22,21 +22,36 @@ Areas of particular interest of mine include Linux, automation (scripting), and 
 In addition to my day job, I currently perform independent consulting under the DBA, digitalRoots. My main work as digitalRoots is assisting community groups and nonprofit organizations. Most of the time this work is volunteer jobs. When I attend conferences, I also used the digitalRoots moniker.
 
 ## Groups and Affiliations
+
 - [SGV Linux User Group](http://www.sgvlug.org/), Member since 2012
+
 - Ubuntu Hour, Participant since 2013
+
 - [InteropNet](http://www.interop.com/lasvegas/expo/interopnet/), ITM (InteropNet Team Member) since 2012
+
 - OpenStack LA, Member since 2015
+
 - [Null Space Labs](http://032.la/) (hackerspace), Workshop Attendee since 2015
+
 - LETHAL (L.A. Ethical Technical Hacker And Leets), Member since 2015
+
 - Linux LA, Member since 2015
 
-- [Droplabs](http://www.droplabs.net/) (hacker/coworking space), Member, 2013 - 2014
-- [Free Bradley Manning Socal](https://www.facebook.com/FreeChelseaManningSoCal), Organizer, 2012
+**Previous**
+
+* [Droplabs](http://www.droplabs.net/) (hacker/coworking space), Member, 2013 - 2014
+
+* [Free Bradley Manning Socal](https://www.facebook.com/FreeChelseaManningSoCal), 
+Organizer, 2012
 
 ### I Support
+
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
+
 - [Free Software Foundation](http://www.fsf.org/)
+
 - [Hackers For Charity (HFC)](http://www.hackersforcharity.org/)
+
 - [Bradley/Chelsea Manning](http://www.chelseamanning.org/)
 
 ## Techie Background
