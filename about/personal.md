@@ -1,24 +1,16 @@
 ---
 layout: article
-title: "About"
-#date:
-modified: 2015-04-09T00:15:51-07:00
-excerpt: The facts about Carlos Meza
+title: "Getting Personal"
+#date: 
+modified: 2015-06-10T22:25:51-07:00
+excerpt: "More intimate details"
 image:
   feature:
   teaser:
   thumb:
 ads: false
-permalink: about/
+permalink: about/personal/
 ---
-## I Do Computers
-
-I am a developer, system administrator, “computer guy”. I am mostly self taught, originally through brute force, then books, and now YouTube.
-
-### Linux (and Unix)
-
-I am very much an open source enthusiast. I run [Ubuntu](http://www.ubuntu.com/) and [FreeBSD](https://www.freebsd.org/) on my servers and [Arch](https://www.archlinux.org/) on my desktops. I use [vim](http://www.vim.org/), not [Emacs](https://www.gnu.org/software/emacs/).
-
 ## How It Started
 
 My fascination with computers stems from my curiosity to understand how this box creates an image I can see. When my aunt game my first computer, an [IBM PS/2 Model 70](/my-first-computer_1995-06-28/), I immediately wanted to understand how it works. So the first thing I did, was take it apart. Afterwards I could not get it boot back into the OS (DOS) (my parents were less than pleased). It did how ever boot in to a BASIC interpreter, which I learned how to use. Eventually, I received assistance from my mother's coworker in making it work again, but still did not understand how it worked.
@@ -44,22 +36,3 @@ I also enjoy the Los Angeles nightlife, in particular the music. I can go from w
 As I have delved deeper into the infosec world, I starting to entertain myself with physical penetration. Not looking to do anything professional with this just yet.
 
 Of course I like attending user groups, but now we are moving back in to computers.
-
-## More Stuff I Do
-
-digitalRoots - more informations coming soon.
-
-### Orgs
-
-#### Currently Active
-- [San Gabriel Valley Linux User's Group](http://www.sgvlug.org/)
-- [Whittier Time Bank](http://whittiertimebank.org)
-
-#### Previous
-- [Droplabs](http://www.droplabs.net/)
-- [Free Bradley Manning Socal](https://www.facebook.com/FreeChelseaManningSoCal/info?tab=page_info)
-
-### I proudly support
-- [EFF](https://www.eff.org/)
-- [Hackers for charity](http://www.hackersforcharity.org/)
-- [Bradley/Chelsea Manning](http://www.chelseamanning.org/)

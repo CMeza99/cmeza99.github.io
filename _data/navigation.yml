@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Timeline
+- title: Changelog
   url: /archive/
   excerpt: "Things I have done."
   
@@ -9,10 +9,10 @@
 #  excerpt: "Things I do."
 #  image:
 
-- title: Inspirations
-  url: /likes/
-  excerpt: "Influences and inspiration."
-  image:
+#- title: Inspirations
+#  url: /likes/
+#  excerpt: "Influences and inspiration."
+#  image:
 
 - title: About
   url: /about/
