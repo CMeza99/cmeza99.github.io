@@ -8,17 +8,16 @@ image:
 modified: 2015-06-07T22:00:00-07:00
 post_count: 8
 ---
-I am Carlos Meza. I do systems administration, web development, study information security, and on occasion play with electronics.
 
-This is where I introduce myself to the Internet. Here I share my experiences around my technical adventurers, information systems and anything nerdy. If you see anything interesting here and you would like more information, please contact me at contact@carlosmeza.com.
+&nbsp;
 
 <div class="tiles">
 
 <div class="tile"></div>
 
 <div class="tile">
-  <h2 class="post-title center"><a href="/archive/" title="Post archive">Changelog</a></h2>
-  <p class="post-excerpt">An archive of posts in chronological order. Watch the progess.</p>
+  <div class="center">{% include images/documents.svg %}</div>
+  <h2 class="center" style="margin:auto"><a href="/archive/" title="Post archive">Changelog</a></h2>
 </div><!-- /.tile -->
 
 <!--
@@ -33,8 +32,8 @@ This is where I introduce myself to the Internet. Here I share my experiences ar
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title center"><a href="/about/" title="About Carlos Meza">About Me</a></h2>
-  <p class="post-excerpt">Just a brief bio and history of yours truly.</p>
+  <div class="center">{% include images/user.svg %}</div>
+  <h2 class="center" style="margin:auto"><a href="/about/" title="About Carlos Meza">About Me</a></h2>
 </div><!-- /.tile -->
 
 <div class="title"></div>
