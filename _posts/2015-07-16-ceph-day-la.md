@@ -3,7 +3,7 @@ layout: article
 title: "Ceph Day LA"
 #date: 2015-07-16T14:04:57-07:00
 modified: 2015-09-15T17:58:54-07:00
-excerpt: "Ceph Day Los Angeles"
+excerpt: "1st Ceph Day in Los Angeles"
 image:
   teaser:
   feature:
