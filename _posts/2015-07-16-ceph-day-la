@@ -9,6 +9,7 @@ image:
 categories:
 tags: [storage, event, conference]
 ---
+
 A brief wrap up for Ceph Day LA:
 
 In preparation for Ceph Day LA, over the couple weeks I have been researching Ceph and for comparison, Gluster. Basically Ceph looks amazing. It can do object storage, block storage, and has the highly anticipated CephFS on the horizon. A couple of its strong suites, besides the versatility previously mentioned, are the LIBRADOS API, the self-managing and self-healing RADOS layer, and that it can all be ran on commodity hardware.
@@ -16,6 +17,7 @@ In preparation for Ceph Day LA, over the couple weeks I have been researching Ce
 Paul Evans of Daystrom and Tu Holmes of EA gave a talk, **Adventures in iSCSI**, on designing solution that was low cost to serve up iSCSI that still had good performance. The slides with the hardware and benchmarks are available on [slideshare](http://www.slideshare.net/DaystromTech/ceph-days-la-2015-holmesevans). But in short, the designed the hardware around the Open Computer references. The ran into some issues with iSCSI, and performance inconsistencies when scaling and changing between SSDs and spindles. While some improvements to Ceph have been made because of their work, performance inconsistencies between SSDs and spindles is still under investigation. What is also exciting is that I learned is that, they are expecting VMware certification for iSCSI active/active in the next few months.
 
 Some observation from attendees:
+
 - Ceph seems be used a lot for video streaming.
 - Ceph is often used in conjunction with OpenStack
 - Ceph object store is the most popular component
