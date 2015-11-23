@@ -1,8 +1,13 @@
-<header id="masthead">
-  <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
-    <nav role="navigation" class="menu top-menu">
-        {% include navigation.html %}
-    </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
+<header class="header">
+  <div class="container">
+    <a href="/"><img class="profile-image img-responsive pull-left" src="{{site.baseurl | prepend:site.url}}/img/profile.png" alt="Carlos Meza" /></a>
+    <div class="profile-content pull-left">
+      <h1 class="name"><a href="/" class="place">{{ site.name }}</a></h1>
+      <h2 class="desc">superuser</h2>
+{% include social.html %}
+    </div>
+    {% comment %}
+    <a class="btn btn-cta-primary pull-right" href="http://www.digitalr00ts.com/" target="_blank"><i class="fa fa-paper-plane"></i> Contact Me</a>
+    {% endcomment %}
+  </div>
+</header>

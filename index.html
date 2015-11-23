@@ -1,0 +1,22 @@
+---
+layout: default
+title: Resume
+post_count: 5
+---
+
+<div class="primary col-md-8 col-sm-12 col-xs-12">
+  {% include about.html %}
+  {% include github.html %}
+  {% include blog_feed.html %}
+  {% include experience.html %}
+  {% comment %}
+  Blog feed should be moved above github once there are some posts.
+  {% endcomment %}
+</div>
+<div class="secondary col-md-4 col-sm-12 col-xs-12">
+  {% include basic_info.html %}
+  {% include activity.html %}
+  {% include skills.html %}
+  {% include education.html %}
+  {% include conferences.html %}
+</div>

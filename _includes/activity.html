@@ -1,0 +1,17 @@
+{% assign count=page.post_count %}
+<section class="skills aside section">
+<div class="section-inner">
+  <h2 class="heading">Activities</h2>
+  <div class="content">
+    <div class="skillset">
+      {% for post in site.posts %}
+      	{% if count > 0 %}
+      	 {% include activity-newest.html %}
+      	 {% assign count=count | minus:1 %}
+      	{% endif %}
+      {% endfor %}
+    </div>
+    <a class="btn btn-cta-secondary" href="/activity/">All Activity<i class="fa fa-chevron-right"></i></a>
+  </div><!--//content-->
+</div><!--//section-inner-->
+</section>

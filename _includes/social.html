@@ -1,0 +1,77 @@
+<ul class="social list-inline">
+
+{% if site.social.google %}
+<li>
+    <a title="{{ site.social.google }} on Google+"
+        href="https://plus.google.com/+{{ site.social.google }}"
+        target="_blank"><i class="fa fa-google-plus"></i></a>
+</li>
+{% endif %}
+
+  {% if site.social.twitter %}
+  <li>
+      <a title="{{ site.social.twitter }} on Twitter"
+          href="https://twitter.com/{{ site.social.twitter }}"
+          target="_blank"><i class="fa fa-twitter"></i></a>
+  </li>
+  {% endif %}
+
+    {% if site.social.github %}
+    <li>
+        <a title="{{ site.social.github }} on Github"
+            href="https://github.com/{{ site.social.github }}"
+            target="_blank"><i class="fa fa-github-alt"></i></a>
+    </li>
+    {% endif %}
+
+    {% if site.social.stackoverflow %}
+    <li>
+        <a title="{{ site.social.stackoverflow }} on StackOverflow"
+            href="http://stackoverflow.com/users/1252056/{{ site.social.stackoverflow }}"
+            target="_blank"><i class="fa fa-stack-overflow"></i></a>
+    </li>
+    {% endif %}
+
+    {% if site.social.hackernews %}
+    <li>
+        <a title="{{ site.social.hackernews }} on Hacker News"
+            href="{{ site.social.hackernews }}"
+            target="_blank"><i class="fa fa-hacker-news"></i></a>
+    </li>
+    {% endif %}
+
+    {% if site..social.linkedin %}
+    <li>
+        <a title="{{ site.social.github }} on LinkedIn"
+            href="https://www.linkedin.com/in/{{ site.social.linkedin }}"
+            target="_blank"><i class="fa fa-linkedin"></i></a>
+    </li>
+    {% endif %}
+
+
+    {% if site.social.instagram %}
+    <li>
+        <a title="{{ site.social.instagram }} on Instagram"
+            href="https://instagram.com/{{ site.social.instagram }}"
+            target="_blank"><i class="fa fa-instagram"></i></a>
+    </li>
+    {% endif %}
+
+
+    {% if site.social.lastfm %}
+    <li>
+        <a title="{{ site.social.lastfm }} on LinkedIn"
+            href="http://lastfm.com/user/{{ site.social.lastfm }}"
+            target="_blank"><i class="fa fa-lastfm"></i></a>
+    </li>
+    {% endif %}
+
+    {% if site.social.rss %}
+    <li >
+        <a title="{{ site.social.rss }} RSS"
+            href="{{site.url}}/{{ site.social.rss }}"
+            target="_blank"><i class="fa fa-rss"></i></a>
+    </li>
+    {% endif %}
+
+</ul>

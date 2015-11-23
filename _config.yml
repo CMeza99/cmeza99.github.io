@@ -1,39 +1,60 @@
-# Site wide configuration
-
-title: Carlos Meza
-description: Carlos Meza - DevOps, SysAdmin, Web Developer, Engineer - digitalRoots
-logo: # 120x120 px default image used for Twitter summary card
-teaser: default-teaser.svg # 400x250 px default teaser image used in image archive grid
-locale:
-url:
-
 # Jekyll configuration
 
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title_:year-:month-:day/
-kramdown:
-  toc_levels: 1..2
-highlighter: pygments
-gems:
-  - jekyll-sitemap
-#paginate: 5
-#paginate_path: "/archive/:num/"
+title: "Resume"
+name: "Carlos Meza"
+description: "Carlos Meza: DevOper, Infosecy, and just Awesome!"
+email: contact@carlosmeza.com
 
-# Site owner
-owner:
-  name: Carlos Meza
-  email: me@carlosmeza.com
-  twitter: _digitalRoots
+# Url is currently only used only for the RSS feed in feed.xml
+# url: http://localhost:4000
+
+# For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
+baseurl: ''
+
+social:
+  twitter: digitalr00ts
+  github: cmeza99
+  stackoverflow:
+  reddit:
   linkedin: cmeza99
-  bio: Superuser
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
+  instagram:
+  lastfm:
 
-google:
-  tracking_id: UA-43721421-2
-  ad-client:
-  ad-slot:
+# Google Analytics key, leave blank to ignore
+google_analytics_key:
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+permalink: /:year/:month/:title
+paginate_path: "/activity/page:num/"
+paginate: 10
+
+# highlighter: pygments
+# markdown: redcarpet
+# redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+exclude: ['README.md', 'LICENSE', 'Gemfile', 'Rakefile']
+
+sass:
+  style: compressed
+
+gems:
+- jekyll-mentions
+- jekyll-redirect-from
+  # - jekyll-sitemap
+  # - jekyll-feed
+
+# Rakefile settings
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+  editor: atom-beta
+git:
+    branch: gh-pages
+# transfer:
+#  command: rsync
+#  settings: -av
+#  source: _site/
+#  destination: ~/Git/username.github.com/

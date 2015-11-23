@@ -1,0 +1,12 @@
+<div class="item">
+  <h3 class="level-title"><i class="fa fa-calendar"></i>
+    {% if post.category %}
+    <a href="{{ post.url }}">
+    {% endif %}
+      {{ post.title }}{% if post.event %}, {{ post.event }}{% endif %}<span class="level-label">{{ post.date | date_to_string }}</span>
+    {% if post.category != '' %}
+    </a>
+    {% endif %}
+  </h3>
+  <p class="summary">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+</div>
