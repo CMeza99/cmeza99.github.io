@@ -49,20 +49,21 @@ def read_file(template)
 end
 
 # Save the file with the title in the YAML front matter
-def write_file(content, title, directory, filename)
+def write_file(content, title, event, directory, filename)
   parsed_content = "#{content.sub("title:", "title: \"#{title}\"")}"
+  parsed_content = "#{parsed_content.sub("event:", "event: \"#{event}\"")}"
   parsed_content = "#{parsed_content.sub("date:", "date: #{POST_TIME}")}"
   File.write("#{directory}/#{filename}", parsed_content)
   puts "#{filename} was created in '#{directory}'."
 end
 
 # Create the file with the slug and open the default editor
-def create_file(directory, filename, content, title, editor)
+def create_file(directory, filename, content, title, event, editor)
   FileUtils.mkdir(directory) unless File.exists?(directory)
   if File.exists?("#{directory}/#{filename}")
     raise "The file already exists."
   else
-    write_file(content, title, directory, filename)
+    write_file(content, title, event, directory, filename)
     if editor && !editor.nil?
       sleep 1
       execute("#{editor} #{directory}/#{filename}")
@@ -85,15 +86,20 @@ end
 
 # rake post["Title"]
 desc "Create a post in _posts"
-task :post, :title do |t, args|
+task :post, :title, :event, :date do |t, args|
   title = args[:title]
+  event = args[:event]
+  date = args[:date]
   template = CONFIG["post"]["template"]
   extension = CONFIG["post"]["extension"]
   editor = CONFIG["editor"]
   check_title(title)
-  filename = "#{DATE}-#{transform_to_slug(title, extension)}"
+  if date.nil? or date.empty?
+    date = DATE
+  end
+  filename = "#{date}-#{transform_to_slug(event, extension)}"
   content = read_file(template)
-  create_file(POSTS, filename, content, title, editor)
+  create_file(POSTS, filename, content, title, event, editor)
 end
 
 # rake draft["Title"]
